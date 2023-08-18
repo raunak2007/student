@@ -7,7 +7,7 @@
 ## GitHub Pages
 All `GitHub Pages` websites are managed on GitHub infrastructure. GitHub uses `Jekyll` to tranform your content into static websites and blogs. Each time we change files in GitHub it initiates a GitHub Action that rebuilds and publishes the site with Jekyll.  
 - GitHub Pages is powered by: [Jekyll](https://jekyllrb.com/).
-- Publised teacher website: [nighthawkcoders.github.io/teacher](https://nighthawkcoders.github.io/teacher/)
+- Publised student website: [dolphinalt.github.io/APCSA/](https://dolphinalt.github.io/APCSA/)
 
 ## Preparing a Preview Site 
 In all development, it is recommended to test your code before deployment.  The GitHub Pages development process is optimized by testing your development on your local machine, prior to files on GitHub
@@ -18,7 +18,7 @@ Deployment Cycle.  In the deplopyment cycle, `sync-github-action-review`, it is 
 
 ### WSL and/or Ubuntu installation requirements
 - The result of these step is Ubuntu tools to run preview server.  These procedures were created using [jekyllrb.com](https://jekyllrb.com/docs/installation/ubuntu/)
-- Run scripts in scripts directory of teacher repo: setup_ubuntu.sh and activate.sh.  Or, follow commands below.
+- Run scripts in scripts directory of student repo: setup_ubuntu.sh and activate.sh.  Or, follow commands below.
 ```bash
 ## WSL/Ubuntu commands
 # sudo apt install, installs packages for Ubuntu
@@ -44,12 +44,12 @@ echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
 echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
 echo "=== Gem install starting, thinking... ==="
 gem install jekyll bundler
-head -30 ./teacher/scripts/activate.sh
+head -30 ./student/scripts/activate.sh
 echo "=== !!!Start a new Terminal!!! ==="
 ```
 
 ### MacOs installation requirements 
-- Ihe result of these step are MacOS tools to run preview server.  These procedures were created using [jekyllrb.com](https://jekyllrb.com/docs/installation/macos/). Run scripts in scripts directory of teacher repo: setup_macos.sh and activate_macos.sh.  Or, follow commands below.
+- Ihe result of these step are MacOS tools to run preview server.  These procedures were created using [jekyllrb.com](https://jekyllrb.com/docs/installation/macos/). Run scripts in scripts directory of student repo: setup_macos.sh and activate_macos.sh.  Or, follow commands below.
 ```bash
 # MacOS commands
 # brew install, installs packages for MacOS
@@ -75,12 +75,12 @@ echo 'export GEM_HOME="$HOME/gems"' >> ~/.zshrc
 echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.zshrc
 echo "=== Gem install starting, thinking... ==="
 gem install jekyll bundler
-head -30 ./teacher/scripts/activate.sh
+head -30 ./student/scripts/activate.sh
 echo "=== !!!Start a new Terminal!!! ==="
 ```
 
 ### Preview
-- The result of these step is server running on: http://0.0.0.0:4100/teacher/.  Regeneration messages will run in terminal on any save.  Press the Enter or Return key in the terminal at any time to enter commands.
+- The result of these step is server running on: http://0.0.0.0:4100/student/.  Regeneration messages will run in terminal on any save.  Press the Enter or Return key in the terminal at any time to enter commands.
 
 - Complete installation
 ```bash
@@ -90,13 +90,13 @@ bundle install
 
     - Start preview server in terminal
     ```bash
-    cd ~/vscode/teacher  # my project location, adapt as necessary
+    cd ~/vscode/student  # my project location, adapt as necessary
     make
     ```
 
     - Terminal output of shows server address. Cmd or Ctl click http location to open preview server in browser. Example Server address message... 
     ```
-    Server address: http://0.0.0.0:4100/teacher/
+    Server address: http://0.0.0.0:4100/student/
     ```
 
     - Save on ipynb or md activiates "regeneration". Refresh browser to see updates. Example terminal message...
@@ -105,7 +105,7 @@ bundle install
         _notebooks/2024-01-04-cockpit-setup.ipynb
     ```
 
-    - Terminal message are generated from background processes.  Click return or enter to obtain prompt and use terminal as needed for other tasks.  Alway return to root of project `cd ~/vscode/teacher` for all "make" actions. 
+    - Terminal message are generated from background processes.  Click return or enter to obtain prompt and use terminal as needed for other tasks.  Alway return to root of project `cd ~/vscode/student` for all "make" actions. 
         
 
     - Stop preview server, but leave constructed files in project for your review.
