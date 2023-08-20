@@ -80,7 +80,7 @@ echo "=== !!!Start a new Terminal!!! ==="
 ```
 
 ### Preview
-- The result of these step is server running on: http://0.0.0.0:4100/student/.  Regeneration messages will run in terminal on any save.  Press the Enter or Return key in the terminal at any time to enter commands.
+- The result of these step is server running on: http://0.0.0.0:4200/student/.  Regeneration messages will run in terminal on any save.  Press the Enter or Return key in the terminal at any time to enter commands.
 
 - Complete installation
 ```bash
