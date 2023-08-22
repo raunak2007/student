@@ -4,7 +4,14 @@ title: Student Blog
 ---
 
 ## Build you Home Page here 
-This is about your journey. Start now!!!
+Hi! My name is **Ethan Zhao**.
+
+I am interested in CyberSecurity and Computer Science.
+
+I play violin, and baseball.
+
+![Freeform Image](/images/aboutmephoto.png){:width="250px" height="auto" margin="0 auto"}
+
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
