@@ -2,6 +2,8 @@
 layout: default
 title: Student Blog
 ---
+<link rel="stylesheet" href="index.css">
+
 
 <h1 style="text-align: center; color: #39c9bb">Welcome to my AP CSA Website!</h1>
 <img width="561" alt="FreeForm_CSP" src="https://github.com/e-shen2022/APCSP_Blog/assets/104966589/753f2835-49bd-474a-beaa-598d86b59d25"  style="display: block; margin: 0 auto">
