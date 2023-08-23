@@ -9,17 +9,7 @@ courses: { csse: {week: 0}, csp: {week: 0, categories: [4.A]}, csa: {week: 0} }
 categories: [C1.4]
 ---
 
-### PBL Sprint 0 / Week 0
-Learning outcome.  Installing Tools and showing usage of VSCode.
-- Wednesday - Pick pair share partner, Pick crossover pair, Establish team of four.  Spend some time talking and getting to know each other, particularly with Computer Science experience and goals.  You should be matched with someone that has similar experience.
-- Thursday - Setup Tools on laptop and/or Cloud Computer.
-- Friday - Review and test as a Pair. Spend 25 minutes at one keyboard then switch for next 25 minutes.
+### I love my tools!
+The tools I use are: VSCode, GitHub, GitHub Pages, Jupyter Notebooks, Slack, and Terminal. I use VSCode to write my code, GitHub to store my code, GitHub Pages to host my blog, Jupyter Notebooks to run my code, Slack to communicate with my team, and terminal so that I can install more tools, run commands, manage my file system and more.
 
-### Hack Prepartation
-> Look for 'Hacks' to know what to do next.  Try to be done and learn your machine befand tools before Monday.
-- A laptop, that you bring to class every day with ability to operate Development Tools on it or within the cloud.
-- GitHub Account, VSCode will be used to push/pull changes. GitHub is where we store and share code in the cloud, think of Google Docs but for Code.
-- GitHub Pages will be used to host your personal blog site containing notes, and hacks.  Building pages will teach Markdown, HTML, CSS, JavaScript and more.
-- Jupyter Notebooks will be used in conjunction with GitHub Pages to build running Code in your blog.
-- Slack Account, install the App on Laptop and/or phone, get used to reading announcements. Slack is the tool that we will use for messaging, we have been averaging 1000s of essages each year.
-- VSCode is the code editor we will be using in this class.  VSCode is more than and editor, this type of tool is often called an Interactive Development Environment (IDE). 
+All these tools are essential for me to properly "Code Code Code!" and without them, I wouldn't even be close to the things I can do now. Take VSCode as an example. Without it, I wouldn't be able to comfortably edit this markdown post file right now! Or even a tool like ChatGPT who can help me solve even the hardest of questions. All these tools help to create a better experience for me and help me to code better.
