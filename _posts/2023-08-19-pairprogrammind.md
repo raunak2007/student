@@ -3,7 +3,7 @@ toc: True
 comments: True
 layout: post
 title: Pair Programming
-courses: {'csa': {'week': 0}}
+courses: {'csa': {'week': 1}}
 type: hacks
 ---
 <html>

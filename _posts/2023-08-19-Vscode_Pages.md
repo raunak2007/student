@@ -3,7 +3,7 @@ toc: True
 comments: True
 layout: post
 title: VSCode, Github Pages Setup
-courses: {'csa': {'week': 0}}
+courses: {'csa': {'week': 1}}
 type: hacks
 ---
 <html>
