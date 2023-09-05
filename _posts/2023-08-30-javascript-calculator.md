@@ -1,5 +1,5 @@
 ---
-title: JS Calculator
+title: JavaScript Calculator
 comments: true
 hide: true
 layout: default

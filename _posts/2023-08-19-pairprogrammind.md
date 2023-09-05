@@ -2,7 +2,7 @@
 toc: True
 comments: True
 layout: post
-title: Pair Programming
+title: Pair Programming w/Luna!
 courses: {'csa': {'week': 1}}
 type: hacks
 ---

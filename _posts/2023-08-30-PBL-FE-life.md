@@ -1,5 +1,5 @@
 ---
-title: Game of Life
+title: Game of Life Game
 layout: base
 description: A remix of Conway's game of life using timer, onclick and algorithms.
 permalink: /frontend/life

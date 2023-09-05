@@ -3,7 +3,7 @@ toc: True
 comments: True
 layout: post
 title: Tools & Equipment Blog 
-courses: {'csa': {'week': 1}}
+courses: {'csa': {'week': 0}}
 type: hacks
 ---
 <html>
